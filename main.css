@@ -1,0 +1,17 @@
+h1{
+    text-decoration-line: underline ;
+}
+
+#Copyright{
+    font-size: 50%;
+}
+
+.question{ 
+    font-weight: bolder;
+}
+
+img{
+    border: 15px solid rgba(28, 255, 244, 0.716);
+    padding: 50px;
+    margin: 20px;
+}
